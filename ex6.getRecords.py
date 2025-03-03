@@ -1,4 +1,4 @@
-#!python3
+ #!python3
 import sqlite3
 
 file = 'dbase.db'
